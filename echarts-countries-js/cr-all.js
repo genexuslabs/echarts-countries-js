@@ -12,7 +12,6 @@
 			console && console.error && console.error(msg);
 		}
 	};
-
 	if (!echarts) {
 		log('ECharts is not Loaded');
 		return;
